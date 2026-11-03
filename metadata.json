@@ -1,0 +1,6 @@
+{
+  "name": "Appointment Booking System",
+  "description": "Android-first Appointment Booking, Service Scheduling, Staff Calendar, Client CRM, and Small Business Management System.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
